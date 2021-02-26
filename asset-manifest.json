@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/avn-streamify/static/css/main.bc908512.chunk.css",
-    "main.js": "/avn-streamify/static/js/main.8b0e837c.chunk.js",
-    "main.js.map": "/avn-streamify/static/js/main.8b0e837c.chunk.js.map",
+    "main.js": "/avn-streamify/static/js/main.01658b0f.chunk.js",
+    "main.js.map": "/avn-streamify/static/js/main.01658b0f.chunk.js.map",
     "runtime-main.js": "/avn-streamify/static/js/runtime-main.94e6786f.js",
     "runtime-main.js.map": "/avn-streamify/static/js/runtime-main.94e6786f.js.map",
     "static/js/2.7c4cd7c0.chunk.js": "/avn-streamify/static/js/2.7c4cd7c0.chunk.js",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.94e6786f.js",
     "static/js/2.7c4cd7c0.chunk.js",
     "static/css/main.bc908512.chunk.css",
-    "static/js/main.8b0e837c.chunk.js"
+    "static/js/main.01658b0f.chunk.js"
   ]
 }
