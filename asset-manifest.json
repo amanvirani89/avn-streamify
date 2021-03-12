@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/avn-streamify/static/css/main.711ea1b9.chunk.css",
-    "main.js": "/avn-streamify/static/js/main.79542481.chunk.js",
-    "main.js.map": "/avn-streamify/static/js/main.79542481.chunk.js.map",
+    "main.js": "/avn-streamify/static/js/main.50ec6a8a.chunk.js",
+    "main.js.map": "/avn-streamify/static/js/main.50ec6a8a.chunk.js.map",
     "runtime-main.js": "/avn-streamify/static/js/runtime-main.94e6786f.js",
     "runtime-main.js.map": "/avn-streamify/static/js/runtime-main.94e6786f.js.map",
-    "static/js/2.8dbcbbc2.chunk.js": "/avn-streamify/static/js/2.8dbcbbc2.chunk.js",
-    "static/js/2.8dbcbbc2.chunk.js.map": "/avn-streamify/static/js/2.8dbcbbc2.chunk.js.map",
+    "static/js/2.0fb959fc.chunk.js": "/avn-streamify/static/js/2.0fb959fc.chunk.js",
+    "static/js/2.0fb959fc.chunk.js.map": "/avn-streamify/static/js/2.0fb959fc.chunk.js.map",
     "index.html": "/avn-streamify/index.html",
     "static/css/main.711ea1b9.chunk.css.map": "/avn-streamify/static/css/main.711ea1b9.chunk.css.map",
-    "static/js/2.8dbcbbc2.chunk.js.LICENSE.txt": "/avn-streamify/static/js/2.8dbcbbc2.chunk.js.LICENSE.txt",
+    "static/js/2.0fb959fc.chunk.js.LICENSE.txt": "/avn-streamify/static/js/2.0fb959fc.chunk.js.LICENSE.txt",
     "static/media/3d-banner-collage.401af138.jpg": "/avn-streamify/static/media/3d-banner-collage.401af138.jpg",
     "static/media/Logo-Movie-Project-footer.ca1dbd2a.png": "/avn-streamify/static/media/Logo-Movie-Project-footer.ca1dbd2a.png",
     "static/media/Logo-Movie-Project.b4707709.png": "/avn-streamify/static/media/Logo-Movie-Project.b4707709.png",
@@ -26,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.94e6786f.js",
-    "static/js/2.8dbcbbc2.chunk.js",
+    "static/js/2.0fb959fc.chunk.js",
     "static/css/main.711ea1b9.chunk.css",
-    "static/js/main.79542481.chunk.js"
+    "static/js/main.50ec6a8a.chunk.js"
   ]
 }
