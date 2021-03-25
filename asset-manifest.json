@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/avn-streamify/static/css/main.34d8cc06.chunk.css",
+    "main.css": "/avn-streamify/static/css/main.51af47f3.chunk.css",
     "main.js": "/avn-streamify/static/js/main.80dd59ae.chunk.js",
     "main.js.map": "/avn-streamify/static/js/main.80dd59ae.chunk.js.map",
     "runtime-main.js": "/avn-streamify/static/js/runtime-main.94e6786f.js",
@@ -8,7 +8,7 @@
     "static/js/2.32c0acd1.chunk.js": "/avn-streamify/static/js/2.32c0acd1.chunk.js",
     "static/js/2.32c0acd1.chunk.js.map": "/avn-streamify/static/js/2.32c0acd1.chunk.js.map",
     "index.html": "/avn-streamify/index.html",
-    "static/css/main.34d8cc06.chunk.css.map": "/avn-streamify/static/css/main.34d8cc06.chunk.css.map",
+    "static/css/main.51af47f3.chunk.css.map": "/avn-streamify/static/css/main.51af47f3.chunk.css.map",
     "static/js/2.32c0acd1.chunk.js.LICENSE.txt": "/avn-streamify/static/js/2.32c0acd1.chunk.js.LICENSE.txt",
     "static/media/3d-banner-collage.401af138.jpg": "/avn-streamify/static/media/3d-banner-collage.401af138.jpg",
     "static/media/Logo-Movie-Project-footer.ca1dbd2a.png": "/avn-streamify/static/media/Logo-Movie-Project-footer.ca1dbd2a.png",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.94e6786f.js",
     "static/js/2.32c0acd1.chunk.js",
-    "static/css/main.34d8cc06.chunk.css",
+    "static/css/main.51af47f3.chunk.css",
     "static/js/main.80dd59ae.chunk.js"
   ]
 }
